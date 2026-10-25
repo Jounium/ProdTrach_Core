@@ -1,10 +1,8 @@
-**# ProdTrach_Core: TinyML & Rapid Firmware Development Board**
-Hardware development board for rapid firmware development, testing, and TinyML experimentation, designed to accelerate the ProdTrack Node development process.
+# ProdTrack Core: TinyML & Rapid Firmware Development Board
 
 ## Overview
 
-ProdTrack Core is a hardware development board designed for TinyML applications, rapid firmware development, and testing.
-The board enabled firmware development and TinyML experimentation to proceed in parallel with the manufacturing of the main ProdTrack Node, reducing overall development time.
+ProdTrack Core was developed to accelerate firmware development, testing, and TinyML experimentation while the main **ProdTrack Node** board was being manufactured, reducing overall project development time.
 
 ## Key Features
 
@@ -34,4 +32,4 @@ Additional engineering files are available upon request, including:
 ## Contact
 
 
-For hardware engineering services, technical collaboration, or requests for additional design files, feel free to contact me via [LinkedIn]([https://www.linkedin.com/in/YOUR-PROFILE/](https://www.linkedin.com/in/youness-taik-434166200/?isSelfProfile=true)) or [Email](younesstaik0@gmail.com).
+For hardware engineering services, technical collaboration, or requests for additional design files, feel free to contact me via [LinkedIn](https://www.linkedin.com/in/youness-taik-434166200/) or [Email](younesstaik0@gmail.com).
